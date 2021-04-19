@@ -1,0 +1,84 @@
+.navbar-top-contact {
+    color: #555;
+    border-bottom: 1px solid #e7e7e7;
+    line-height: 38px;
+    min-height: 38px;
+}
+.navbar-sosmed {
+    line-height: 38px;
+}
+.navbar-sosmed .fab {
+    margin-right: 1rem;
+}
+img .logo {
+    width: auto;
+    max-height: 50px;
+}
+.link-konfirmasi {
+    color: #555;
+}
+.top-search {
+    padding: 10px 0;
+    background-color: #333;
+    display: none;
+}
+.top-search .input-group-addon {
+    background-color: transparent;
+    color: white;
+    border: none;
+    padding-left: 0;
+    padding-right: 0;
+}
+.top-search .form-control {
+    background-color: #333 !important;
+    border: none;
+}
+.top-search .input-group {
+    align-items: center !important;
+}
+.navbar-down {
+    border-bottom: 1px solid #e7e7e7;
+}
+
+.main {
+    padding-top: 40px;
+}
+.main .alert-warning {
+    color: #8a6d3b;
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+}
+.main .alert {
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 5px;
+}
+.form-green {
+    background: #e4f0e4;
+    margin-bottom: 20px;
+    padding: 0px 15px;
+}
+fieldset {
+    min-width: 0;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+.form-green legend {
+    color: #118c4a;
+    padding: 15px 0px 5px 0px;
+    border-bottom: 1px solid #118c4a;
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-weight: 500;
+}
+.form-green .form-group {
+    margin-bottom: 15px;
+}
+.form-group .control-label {
+    padding-top: 7px;
+    margin-bottom: 0;
+}
+label{
+    text-align:left;
+}
